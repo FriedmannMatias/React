@@ -2,9 +2,9 @@ import CartWidget from "../CartWidget/CartWidget"
 
 const NavBar = () => {
     return (
-        <nav>
-            <h1>Sneak Pro</h1>
-            <div>
+        <nav className="navbar-container">
+            <h1 className="logo">Sneak Pro</h1>
+            <div className="container-links">
                 <button>Hombre</button>
                 <button>Mujer</button>
                 <button>Unisex</button>
