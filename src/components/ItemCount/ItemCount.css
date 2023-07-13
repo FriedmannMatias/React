@@ -1,0 +1,20 @@
+.counter {
+    width: 300px;
+    height: auto;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    background-color: #F0F0F0;
+    border-radius: 4px;
+}
+
+.Controls{
+    display: flex;
+    justify-content: space-around;
+}
+
+.Button {
+    margin: auto;
+    font-size: 20px;
+}

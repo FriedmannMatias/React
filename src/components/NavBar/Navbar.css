@@ -1,0 +1,37 @@
+.navbar-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.logo{
+    margin: 10px;
+    padding: 5px;
+}
+
+.container-links {
+    display: flex;
+    gap: 100px;
+}
+
+.links{
+    border: none;
+    margin: 10px;
+    padding: 15px;
+    background-color: #DDDBE0;
+    border-radius: 5px;
+}
+  
+.links:hover {
+    background-color: #c9c9c9;
+}
+li{
+    list-style-type: none;
+    background-color: #F0F0F0;
+}
+
+.carrito {
+    font-size: 20px;
+}
+
